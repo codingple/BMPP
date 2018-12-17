@@ -8,11 +8,11 @@ asks whether the clients have the file, and give the address of the file owner t
 connects to the peer and receives the file.  
 
 ### Usage
-* **Server**
+* **Server**  
 So that this application has to use _port 9190_, open the port with:
 >> sudo ufw allow 9190/tcp
 
-Compile "bmpp_sv.c" using the following:  
+```Compile "bmpp_sv.c" using the following:  
 >> gcc -o sv bmpp_sv.c  
   
 Excute the server:  
