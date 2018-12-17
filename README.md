@@ -9,10 +9,10 @@ connects to the peer and receives the file.
 
 ### Usage
 * **Server**  
-So that this application has to use _port 9190_, open the port with:  
->> sudo ufw allow 9190/tcp  
-  
-  Compile "bmpp_sv.c" using the following:  
+So that this application has to use _port 9190_, open the port with:
+>> sudo ufw allow 9190/tcp
+
+Compile "bmpp_sv.c" using the following:  
 >> gcc -o sv bmpp_sv.c  
   
 Excute the server:  
