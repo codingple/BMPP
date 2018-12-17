@@ -38,4 +38,4 @@ Now, "BMPP" directory is bone next to the client application(e.g. in the same di
 You and other peer can share any file in the directory with file name.  
 Type the file name to acquire, and you can receive the file if any peer share the file, like:  
 ```>> test.txt```  
-
+&nbsp;
