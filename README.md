@@ -40,11 +40,11 @@ Type the file name to acquire, and you can receive the file if any peer share th
 ```>> test.txt```  
 &nbsp;
 &nbsp;
-* **Server Screenshot**
+* **Server Screenshot**  
 ![Server](./image/Server.PNG)
 &nbsp;
-* **File Sender Screenshot**
+* **File Sender Screenshot**  
 ![Peer1](./image/Peer1.PNG)
 &nbsp;
-* **File Receiver Screenshot**
+* **File Receiver Screenshot**  
 ![Peer2](./image/Peer2.PNG)
