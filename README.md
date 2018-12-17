@@ -11,28 +11,28 @@ connects to the peer and receives the file.
 * **Server**  
 
 So that this application has to use _port 9190_, open the port with:  
->> sudo ufw allow 9190/tcp  
+```sudo ufw allow 9190/tcp```  
   
 Compile "bmpp_sv.c" using the following:  
->> gcc -o sv bmpp_sv.c  
+```gcc -o sv bmpp_sv.c```  
   
 Excute the server:  
->> ./sv  
+```./sv```  
   
   
 * **Client**  
   
 For the file transfer, as well, open the port with:  
->> sudo ufw allow 919/tcp  
+```sudo ufw allow 9191/tcp```  
   
 Compile "bmpp_cl.c" using the following:  
->> gcc -o cl bmpp_cl.c  
+```gcc -o cl bmpp_cl.c```  
   
 Excute the client:  
->> ./cl  
+```./cl```  
   
 Input the IP address of the server, like:  
->> 10.223.32.22  
+```>> 10.223.32.22```  
   
 Now, "BMPP" directory is bone next to the client application(e.g. in the same directory)  
 You and other peer can share any file in the directory with file name.  
