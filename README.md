@@ -18,8 +18,8 @@ Compile "bmpp_sv.c" using the following:
   
 Excute the server:  
 ```>> ./sv```  
-  
-  
+&nbsp;
+&nbsp;
 * **Client**  
   
 For the file transfer, as well, open the port with:  
