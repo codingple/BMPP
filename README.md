@@ -48,3 +48,9 @@ Type the file name to acquire, and you can receive the file if any peer share th
 &nbsp;
 * **File Receiver Screenshot**  
 ![Peer2](./image/Peer2.PNG)
+&nbsp;
+### FYI
+This project is originally for a file transfer P2P program using Linux, Window, and Android.
+The team name was "Bonjour Monde!", which means "Hello World!" in French.
+However, I soley played a part in Linux server and client development.
+I'm sorry that I cannot show the overall program codes ;(
