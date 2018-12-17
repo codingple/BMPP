@@ -19,10 +19,9 @@ Compile "bmpp_sv.c" using the following:
 Excute the server:  
 >> ./sv  
   
-An example:  
-
   
 * **Client**  
+  
 For the file transfer, as well, open the port with:  
 >> sudo ufw allow 919/tcp  
   
