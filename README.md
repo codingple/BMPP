@@ -39,6 +39,12 @@ You and other peer can share any file in the directory with file name.
 Type the file name to acquire, and you can receive the file if any peer share the file, like:  
 ```>> test.txt```  
 &nbsp;
-![Server](./image/Server.PNG)  
-![Peer1](./image/Peer1.PNG)  
-![Peer2](./image/Peer2.PNG)  
+&nbsp;
+* **Server Screenshot**
+![Server](./image/Server.PNG)
+&nbsp;
+* **File Sender Screenshot**
+![Peer1](./image/Peer1.PNG)
+&nbsp;
+* **File Receiver Screenshot**
+![Peer2](./image/Peer2.PNG)
