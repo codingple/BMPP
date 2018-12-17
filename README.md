@@ -31,11 +31,11 @@ Compile "bmpp_cl.c" using the following:
 Excute the client:  
 >> ./cl  
   
-Input the IP address of the server:
-ex) >> 10.223.32.22  
+Input the IP address of the server, like:  
+>> 10.223.32.22  
   
 Now, "BMPP" directory is bone next to the client application(e.g. in the same directory)  
 You and other peer can share any file in the directory with file name.  
-Type the file name to acquire, and you can receive the file if any peer share the file.  
-ex) >> test.txt  
+Type the file name to acquire, and you can receive the file if any peer share the file, like:  
+>> test.txt  
 
