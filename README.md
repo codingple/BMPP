@@ -41,13 +41,13 @@ Type the file name to acquire, and you can receive the file if any peer share th
 &nbsp;
 &nbsp;
 * **Server Screenshot**  
-![Server](./image/Server.PNG)
+![Server](./image/server.PNG)
 &nbsp;
 * **File Sender Screenshot**  
-![Peer1](./image/Peer1.PNG)
+![Peer1](./image/sender.PNG)
 &nbsp;
 * **File Receiver Screenshot**  
-![Peer2](./image/Peer2.PNG)
+![Peer2](./image/receiver.PNG)
 &nbsp;
 ### FYI
 This project is originally for a file transfer P2P program using Linux, Window, and Android.
